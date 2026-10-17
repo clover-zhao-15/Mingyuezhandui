@@ -1,3 +1,1 @@
-机器人项目开发日志
-详细情况可以前往开发日志中查看
-https://github.com/clover-zhao-15/Mingyuezhandui/blob/main/docs/网址如上
+机器人项目开发日志，详细情况可以前往 [开发日志](docs/开发日志.md) 中查看。
